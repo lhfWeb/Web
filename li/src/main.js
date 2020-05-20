@@ -6,13 +6,10 @@ import router from './router'
 
 Vue.config.productionTip = false
 
-<<<<<<< HEAD
 
 console.log(11)
-=======
 console.log(11)
 
->>>>>>> b2810cabf8cb5baed56acc1b4fd7ca7f498d829e
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
